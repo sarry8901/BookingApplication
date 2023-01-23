@@ -1,0 +1,25 @@
+.footer{
+    width: 100%;
+    max-width: 1024px;
+    text-align: center;
+    font-size: 12px;
+}
+.fLists{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.fList{
+   list-style: none;
+   padding: 0px;
+}
+.fListItem{
+    margin-bottom: 10px;
+    cursor: pointer;
+    color: #003580;
+}
+.fText{
+    margin: 5px;
+    margin-top: 15px;
+    font-weight: normal;
+}
